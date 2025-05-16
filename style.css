@@ -1,0 +1,76 @@
+ /*First metric container*/
+.metric-container {
+    background-color: #fa6f56; 
+    padding: 10px; 
+    border-radius: 8px; 
+    display: flex; 
+    width: 200px;
+    font-family: 'Montserrat', sans-serif;
+    display: flex;
+    flex-direction: column;
+    gap: 1px;
+}
+
+
+ /*Second Metric container*/
+ .metric-container2 {
+    background-color: #414148; 
+    padding: 10px; 
+    border-radius: 8px; 
+    display: flex; 
+    width: 200px;
+    font-family: 'Montserrat', sans-serif;
+    display: flex;
+    flex-direction: column;
+    gap: 1px;
+}
+
+ /*Metric label*/
+
+.metric-label {
+    font-size: 18px; 
+    color: #FFFFFF;
+    font-weight: bold;
+    align-self: flex-start;
+}
+
+ /*Metric content*/
+.metric-content {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+ /*Metric value 1 for container 1*/
+.metric-value {
+    font-size: 30px; 
+    font-weight: bold; 
+    color: #491A03;
+}
+
+ /*Metric value 2 for container 2*/
+.metric-value2 {
+    font-size: 30px; 
+    font-weight: bold; 
+    color: #FFFFFF;
+}
+
+ /*Metric value 2 for Beast mode*/
+ .metric-value2 {
+    font-size: 28px; 
+    font-weight: bold; 
+    color: #FFFFFF;
+}
+
+
+/*Metric delta*/
+.metric-delta {
+    font-size: 18px; 
+    color: #FFFFFF;
+}
+
+
+
+

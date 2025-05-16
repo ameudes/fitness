@@ -1,0 +1,23 @@
+/*Activity map style elements*/
+.heatmap {
+    display: grid;
+    grid-template-columns: repeat(10, auto);
+    gap: 1px;
+  }
+  
+  .week {
+    display: grid;
+    grid-template-rows: repeat(7, 12px);
+    gap: 1px;
+  }
+  
+  .day {
+    width: 12px;
+    height: 12px;
+    background-color: #d0d0d0;
+    border-radius: 2px;
+  }
+  
+  .active {
+    background-color: #FA6F56;
+  }
