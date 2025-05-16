@@ -548,7 +548,7 @@ elif menu == 'Individual level':
     ### FIRST COLUMN ELEMENTS        
     with c1:
         st.markdown("<div style='height: 0px;'></div>", unsafe_allow_html=True)
-        image_path = "image/Gym.jpg" 
+        image_path = "image/gym.jpg" 
         image_best=f"image/{selected_name}.jpg"
         name=selected_name
         with open(image_path, "rb") as img_file:
