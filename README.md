@@ -1,15 +1,20 @@
 # Fitness
 
-A personal dashboard project analyzing fitness data and visualizing metrics.  
-This repo contains scripts, data, and styles to explore and present fitness-related analyses.
+A personal dashboard project analyzing fitness data and visualizing metrics. You can access the dashboard here  : https://fitnessgoal.streamlit.app/ 
 
-## Contents
+## Overview 
+<img width="1877" height="775" alt="Screenshot 2025-10-13 173824" src="https://github.com/user-attachments/assets/2cd0f900-1e0f-4994-ac0e-2a79e45aa7ae" />
+<img width="1721" height="781" alt="Screenshot 2025-10-13 173919" src="https://github.com/user-attachments/assets/2432aa6b-9b26-4bd3-91a5-46cba4dcd2c9" />
+<img width="1845" height="605" alt="Screenshot 2025-10-13 173939" src="https://github.com/user-attachments/assets/f8933a7f-414a-4465-a287-091c5b40ef02" />
+
+
+## Repo Contents
 
 | Item | Description |
 |---|---|
-| `v1.py` | Main Python script for data processing and analysis |
+| `v1.py` | Main Python script for the dashboard |
 | `data analysis.ipynb` | Jupyter Notebook containing exploratory data analysis |
-| `Fitness.xlsx` | Raw or processed fitness data (Excel format) |
+| `Fitness.xlsx` | Raw fitness data (Excel format) |
 | `image/icone.png` | Icon or asset used in reports or website |
 | `style.css`, `style2.css` | Styling sheets for HTML reports or dashboards |
 | `requirements.txt` | Python dependencies |
@@ -70,5 +75,5 @@ Please ensure your code is clean, documented, and any new dependencies are added
 
 ## License
 
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file.
+This project is licensed under the **MIT License** 
 
