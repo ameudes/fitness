@@ -13,7 +13,6 @@ A personal dashboard project analyzing fitness data and visualizing metrics. You
 | Item | Description |
 |---|---|
 | `v1.py` | Main Python script for the dashboard |
-| `data analysis.ipynb` | Jupyter Notebook containing exploratory data analysis |
 | `Fitness.xlsx` | Raw fitness data (Excel format) |
 | `image/icone.png` | Icon or asset used in reports or website |
 | `style.css`, `style2.css` | Styling sheets for HTML reports or dashboards |
@@ -26,7 +25,7 @@ A personal dashboard project analyzing fitness data and visualizing metrics. You
 
 - Python 3.x  
 - Required Python libraries (see `requirements.txt`)  
-- (Optionally) Jupyter notebook environment
+
 
 ### Setup
 
